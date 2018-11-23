@@ -1,0 +1,21 @@
+/* css */
+
+body
+{
+    background-color: peachpuff;
+}
+
+h2
+{
+    color:red
+}
+
+p#jeden
+{
+    color: palevioletred;
+}
+
+p#dwa
+{
+    color: blue;
+}
